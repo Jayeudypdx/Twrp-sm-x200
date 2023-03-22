@@ -4,10 +4,10 @@
 export TWRP_MANIFEST="https://github.com/faoliveira78/platform_manifest_twrp_aosp"
 export TWRP_BRANCH="twrp-12.1"
 #export TWRP_BRANCH="twrp-test"
-export DT_LINK="https://github.com/faoliveira78/android_device_oneplus_cheeseburger.git -b android-13"
+export DT_LINK="https://github.com/Jayeudypdx/android_device_samsung_gta8wifi.git -b twrp-12.1"
 
-export DEVICE="cheeseburger"
-export OEM="oneplus"
+export DEVICE="gta8wifi"
+export OEM="samsung"
 #export PLATFORM="msm8998"
 export TARGET="recoveryimage"
 export TW_DEVICE_VERSION="2"
