@@ -34,6 +34,7 @@ export TW_NO_BIND_SYSTEM=true
 export TW_SCREEN_BLANK_ON_BOOT=true
 export TW_DEVICE_VERSION=1
 export TW_INCLUDE_CRYPTO=true
+export TW_INCLUDE_CRYPTO_FBE=true
 
 # Not Recommended to Change
 if [ ! -e $HOME/work ]; then
