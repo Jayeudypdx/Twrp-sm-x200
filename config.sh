@@ -16,7 +16,7 @@ export FILENAME="twrp*.img"
 
 # Kernel Source
 # Uncomment the next line if you want to clone a kernel source.
-#export KERNEL_SOURCE="https://github.com/faoliveira78/android_kernel_oneplus_msm8998"
+
 
 # Extra Command
 export EXTRA_CMD=""
